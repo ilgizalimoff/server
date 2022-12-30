@@ -1,63 +1,135 @@
 {
-  "zgalovok": [
-    {
-      "id": 1,
-      "cehProizv": "Сварочный",
-      "dateBegin": "03.10.20001",
-      "dateEnd": "09.08.2020",
-      "status": "Выполнен"
-    },
-    {
-      "id": 4,
-      "cehProizv": "Молочный",
-      "dateBegin": "11.11.75",
-      "dateEnd": "21.12.2222",
-      "status": "в работе"
-    },
-    {
-      "id": 3,
-      "cehProizv": "Обкаточный",
-      "dateBegin": "11.11.2020",
-      "dateEnd": "01.01.2023",
-      "status": "новый"
-    }
-  ],
-  "position": [
-    {
-      "id": 1,
-      "numPosition": 1,
-      "celevCharacterMaterial": {
-        "markaStali": "m162",
-        "diametr": 566,
-        "stenka": "Красная"
-      },
-      "ObPoszakaza": 32,
-      "edinIzm": "см",
-      "status": "Статус (новая, в работе, выполнена)"
-    },
-    {
-      "id": 2,
-      "numPosition": 1,
-      "celevCharacterMaterial": {
-        "markaStali": "аас234",
-        "diametr": 331,
-        "stenka": "Желтый"
-      },
-      "ObPoszakaza": 90,
-      "edinIzm": "дм",
-      "status": "Новая"
-    },
-    {
-      "numPosition": 3,
-      "celevCharacterMaterial": {
-        "markaStali": "см456",
-        "diametr": "54",
-        "stenka": "Пластмасса"
-      },
-      "ObPoszakaza": "21",
-      "edinIzm": "КМ",
-      "status": "Новый",
-      "id": 3
-    }
-  ]
+    "links": [
+        {
+            "id": 1,
+            "title": "Flashcards",
+            "body": "Данное приложение позволяет вам создавать карточки с вопросами и ответами. Создается карточка с вопросом и по клику на карточку можно получить ответ. Данные хранятся в локальном хранилище.  Можно удалить как отдельно каждую карточку, так и все сразу.",
+            "linkTry": "https://ilgizalimoff.github.io/flashcards/",
+            "linkGithiub": "https://github.com/ilgizalimoff/flashcards"
+        },
+        {
+            "id": 2,
+            "title": "Sticky Notes",
+            "body": "Создавай стикеры при помощи этого приложения! Стикеры не сохраняются и при перезагрузке будут удалены. Каждый стикер создается с рандомным цветом и наклоном. При двойном клике по стикеру можно его удалить.",
+            "linkTry": "https://ilgizalimoff.github.io/stickyNotes/",
+            "linkGithiub": "https://github.com/ilgizalimoff/stickyNotes"
+        },
+        {
+            "id": 3,
+            "title": "Typewriter",
+            "body": "Генерируется цитата с бесплатного сайта и приложение являющееся пишущей машинкой, переписывает ее посимвольно. После переписывания всей цитаты спустя 3 секунды операция повторяется.",
+            "linkTry": "https: //ilgizalimoff.github.io/Typewriter/",
+            "linkGithiub": "https://github.com/ilgizalimoff/Typewriter"
+        },
+        {
+            "id": 4,
+            "title": "Image Generator",
+            "body": "Это обычный генератор картинок по ключевым словам. Вводится слово для поиска и показывается 6 первых картинок, которые берутся с бесплатного сайта картинок и выводятся. При клике на картинку она открывается в новом окне и ее можно скачать.",
+            "linkTry": "https: //ilgizalimoff.github.io/imageGenerator/",
+            "linkGithiub": "https://github.com/ilgizalimoff/imageGenerator"
+        },
+        {
+            "id": 5,
+            "title": "Math 4 kids ",
+            "body": "Хотите научить ребенка считать простые примеры? Тогда это приложение для вас. Четыре простые математические операции и небольшие числа помогут научить ребенка считать. Имеется счетчик правильных овтетов. Если клик идет по неправильному ответу, ничего не происходит пока не будет выбран правильный." ,
+            "linkTry": "https: //ilgizalimoff.github.io/math4kids/",
+            "linkGithiub": "https://github.com/ilgizalimoff/math4kids"
+        },
+        {
+            "id": 6,
+            "title": "Amount",
+            "body": "Простой калькулятор чаевых на человека. Вводится общая сумма платежа и процент чаевых. Происходит высчитывание чаевых на каждого человека и выводится ответ.",
+            "linkTry": "https: //ilgizalimoff.github.io/amount/",
+            "linkGithiub": "https://github.com/ilgizalimoff/amount"
+        },
+        {
+            "id": 7,
+            "title": "Grocery List",
+            "body": "Приложение, позовяющее хранить список покупок. Изначально выводится 2 товара. Их можно удалить, клинкув на них и нажав на крестик в углу. Также можно добавлять свои покупки и удалять и их в зависимости от вашего желания.",
+            "linkTry": "https: //ilgizalimoff.github.io/groceryList/",
+            "linkGithiub": "https://github.com/ilgizalimoff/groceryList"
+        },
+        {
+            "id": 8,
+            "title": "Calculator",
+            "body": "Приложение представляет собой обычный калькулятор с четырмя простыми операциями. Попробуй посчитать что-нибудь!",
+            "linkTry": "https: //ilgizalimoff.github.io/calculator/",
+            "linkGithiub": "https://github.com/ilgizalimoff/calculator"
+        },
+        {
+            "id": 9,
+            "title": "Test Task ",
+            "body": "Это тестовое задание мне было дано одной компанией. Я сделал его так, как смог на тот момент. Выводятся заказы и их дополнительные сведения. Также можно добавлять новые заказы, введя все необходимые сведения.",
+            "linkTry": "https: //ilgizalimoff.github.io/testTask/",
+            "linkGithiub": "https://github.com/ilgizalimoff/testTask"
+        },
+        {
+            "id": 10,
+            "title": "Todo",
+            "body": "Это обычный список (ToDo лист). Можно заполнить его чем угодно. Данное приложение чем-то похоже на Grocery List, но тут мы можем выделять важные задачи или помечать их выполненными (клик правой кнопкой мыши), а также при необходимости удалять их.",
+            "linkTry": "https: //ilgizalimoff.github.io/todo/",
+            "linkGithiub": "https://github.com/ilgizalimoff/todo"
+        }
+    ],
+    "zgalovok": [
+        {
+            "id": 1,
+            "cehProizv": "Сварочный",
+            "dateBegin": "03.10.20001",
+            "dateEnd": "09.08.2020",
+            "status": "Выполнен"
+        },
+        {
+            "id": 4,
+            "cehProizv": "Молочный",
+            "dateBegin": "11.11.75",
+            "dateEnd": "21.12.2222",
+            "status": "в работе"
+        },
+        {
+            "id": 3,
+            "cehProizv": "Обкаточный",
+            "dateBegin": "11.11.2020",
+            "dateEnd": "01.01.2023",
+            "status": "новый"
+        }
+    ],
+    "position": [
+        {
+            "id": 1,
+            "numPosition": 1,
+            "celevCharacterMaterial": {
+                "markaStali": "m162",
+                "diametr": 566,
+                "stenka": "Красная"
+            },
+            "ObPoszakaza": 32,
+            "edinIzm": "см",
+            "status": "Статус (новая, в работе, выполнена)"
+        },
+        {
+            "id": 2,
+            "numPosition": 1,
+            "celevCharacterMaterial": {
+                "markaStali": "аас234",
+                "diametr": 331,
+                "stenka": "Желтый"
+            },
+            "ObPoszakaza": 90,
+            "edinIzm": "дм",
+            "status": "Новая"
+        },
+        {
+            "numPosition": 3,
+            "celevCharacterMaterial": {
+                "markaStali": "см456",
+                "diametr": "54",
+                "stenka": "Пластмасса"
+            },
+            "ObPoszakaza": "21",
+            "edinIzm": "КМ",
+            "status": "Новый",
+            "id": 3
+        }
+    ]
 }
