@@ -4,31 +4,31 @@
             "id": 1,
             "value": "WhatsApp",
             "href": "https://wa.me/79053520692",
-            "imgSrc": "/static/media/whatsapp.10377eb05dfcdb92e87ee7f46b03b449.svg"
+            "imgSrc": "./icons/github.svg"
           },
           {
             "id": 2,
             "value": "Instagram",
             "href": "https://www.instagram.com/iiins99",
-            "imgSrc": "/static/media/instagram.5b3a03f85d2741db18a82294547ba599.svg"
+            "imgSrc": "./icons/instagram.svg"
           },
           {
             "id": 3, 
             "value": "Vk",
             "href": "https://vk.com/iivk9",
-            "imgSrc": "/static/media/vk.7ea2d7ddc1589c58a83040b3bba32185.svg"
+            "imgSrc": "./icons/vk.svg"
           },
           {
             "id": 4,
             "value": "Telegram",
             "href": "https://t.me/pasvod",
-            "imgSrc": "/static/media/telegram.973598202326f2d5c1b2a1869d7b9629.svg"
+            "imgSrc": "./icons/telegram.svg"
           },
           {
             "id": 5,
             "value": "Github",
             "href": "https://github.com/ilgizalimoff",
-            "imgSrc": "/static/media/github.7c2b277031fc9aeb24c033ff9332c319.svg"
+            "imgSrc": "./icons/github.svg"
           }
     ],
     "links": [
@@ -50,35 +50,35 @@
             "id": 3,
             "title": "Typewriter",
             "body": "Генерируется цитата с бесплатного сайта и приложение являющееся пишущей машинкой, переписывает ее посимвольно. После переписывания всей цитаты спустя 3 секунды операция повторяется.",
-            "linkTry": "https: //ilgizalimoff.github.io/Typewriter/",
+            "linkTry": "https://ilgizalimoff.github.io/Typewriter/",
             "linkGithiub": "https://github.com/ilgizalimoff/Typewriter"
         },
         {
             "id": 4,
             "title": "Image Generator",
             "body": "Это обычный генератор картинок по ключевым словам. Вводится слово для поиска и показывается 6 первых картинок, которые берутся с бесплатного сайта картинок и выводятся. При клике на картинку она открывается в новом окне и ее можно скачать.",
-            "linkTry": "https: //ilgizalimoff.github.io/imageGenerator/",
+            "linkTry": "https://ilgizalimoff.github.io/imageGenerator/",
             "linkGithiub": "https://github.com/ilgizalimoff/imageGenerator"
         },
         {
             "id": 5,
             "title": "Math 4 kids ",
             "body": "Хотите научить ребенка считать простые примеры? Тогда это приложение для вас. Четыре простые математические операции и небольшие числа помогут научить ребенка считать. Имеется счетчик правильных овтетов. Если клик идет по неправильному ответу, ничего не происходит пока не будет выбран правильный." ,
-            "linkTry": "https: //ilgizalimoff.github.io/math4kids/",
+            "linkTry": "https://ilgizalimoff.github.io/math4kids/",
             "linkGithiub": "https://github.com/ilgizalimoff/math4kids"
         },
         {
             "id": 6,
             "title": "Amount",
             "body": "Простой калькулятор чаевых на человека. Вводится общая сумма платежа и процент чаевых. Происходит высчитывание чаевых на каждого человека и выводится ответ.",
-            "linkTry": "https: //ilgizalimoff.github.io/amount/",
+            "linkTry": "https://ilgizalimoff.github.io/amount/",
             "linkGithiub": "https://github.com/ilgizalimoff/amount"
         },
         {
             "id": 7,
             "title": "Grocery List",
             "body": "Приложение, позовяющее хранить список покупок. Изначально выводится 2 товара. Их можно удалить, клинкув на них и нажав на крестик в углу. Также можно добавлять свои покупки и удалять и их в зависимости от вашего желания.",
-            "linkTry": "https: //ilgizalimoff.github.io/groceryList/",
+            "linkTry": "https://ilgizalimoff.github.io/groceryList/",
             "linkGithiub": "https://github.com/ilgizalimoff/groceryList"
         },
         {
@@ -92,14 +92,14 @@
             "id": 9,
             "title": "Test Task ",
             "body": "Это тестовое задание мне было дано одной компанией. Я сделал его так, как смог на тот момент. Выводятся заказы и их дополнительные сведения. Также можно добавлять новые заказы, введя все необходимые сведения.",
-            "linkTry": "https: //ilgizalimoff.github.io/testTask/",
+            "linkTry": "https://ilgizalimoff.github.io/testTask/",
             "linkGithiub": "https://github.com/ilgizalimoff/testTask"
         },
         {
             "id": 10,
             "title": "Todo",
             "body": "Это обычный список (ToDo лист). Можно заполнить его чем угодно. Данное приложение чем-то похоже на Grocery List, но тут мы можем выделять важные задачи или помечать их выполненными (клик правой кнопкой мыши), а также при необходимости удалять их.",
-            "linkTry": "https: //ilgizalimoff.github.io/todo/",
+            "linkTry": "https://ilgizalimoff.github.io/todo/",
             "linkGithiub": "https://github.com/ilgizalimoff/todo"
         }
     ],
