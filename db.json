@@ -96,6 +96,13 @@
             "body": "Это обычный список (ToDo лист). Можно заполнить его чем угодно. Данное приложение чем-то похоже на Grocery List, но тут мы можем выделять важные задачи или помечать их выполненными (клик правой кнопкой мыши), а также при необходимости удалять их.",
             "linkTry": "https://ilgizalimoff.github.io/todo/",
             "linkGithiub": "https://github.com/ilgizalimoff/todo"
+        },
+        {
+            "id": 11,
+            "title": "Slider",
+            "body": "Это приложение представляет собой слайдер картинок. При помощи кнопок их можно переключать.",
+            "linkTry": "https://ilgizalimoff.github.io/slider/",
+            "linkGithiub": "https://github.com/ilgizalimoff/slider"
         }
     ],
     "zgalovok": [
