@@ -38,29 +38,29 @@
             "id": 2,
             "title": "Sticky Notes",
             "body": "Создавай стикеры при помощи этого приложения! Стикеры не сохраняются и при перезагрузке будут удалены. Каждый стикер создается с рандомным цветом и наклоном. При двойном клике по стикеру можно его удалить.",
-            "linkTry": "https://ilgizalimoff.github.io/stickyNotes/",
-            "linkGithiub": "https://github.com/ilgizalimoff/stickyNotes"
+            "linkTry": "https://ilgizalimoff.github.io/sticky_notes/",
+            "linkGithiub": "https://github.com/ilgizalimoff/sticky_notes"
         },
         {
             "id": 3,
             "title": "Typewriter",
             "body": "Генерируется цитата с бесплатного сайта и приложение являющееся пишущей машинкой, переписывает ее посимвольно. После переписывания всей цитаты спустя 3 секунды операция повторяется.",
-            "linkTry": "https://ilgizalimoff.github.io/Typewriter/",
-            "linkGithiub": "https://github.com/ilgizalimoff/Typewriter"
+            "linkTry": "https://ilgizalimoff.github.io/typewriter/",
+            "linkGithiub": "https://github.com/ilgizalimoff/typewriter"
         },
         {
             "id": 4,
             "title": "Image Generator",
             "body": "Это обычный генератор картинок по ключевым словам. Вводится слово для поиска и показывается 6 первых картинок, которые берутся с бесплатного сайта картинок и выводятся. При клике на картинку она открывается в новом окне и ее можно скачать.",
-            "linkTry": "https://ilgizalimoff.github.io/imageGenerator/",
-            "linkGithiub": "https://github.com/ilgizalimoff/imageGenerator"
+            "linkTry": "https://ilgizalimoff.github.io/image_generator/",
+            "linkGithiub": "https://github.com/ilgizalimoff/image_generator"
         },
         {
             "id": 5,
-            "title": "Math 4 kids ",
+            "title": "Math for kids ",
             "body": "Хотите научить ребенка считать простые примеры? Тогда это приложение для вас. Четыре простые математические операции и небольшие числа помогут научить ребенка считать. Имеется счетчик правильных овтетов. Если клик идет по неправильному ответу, ничего не происходит пока не будет выбран правильный." ,
-            "linkTry": "https://ilgizalimoff.github.io/math4kids/",
-            "linkGithiub": "https://github.com/ilgizalimoff/math4kids"
+            "linkTry": "https://ilgizalimoff.github.io/math_for_kids/",
+            "linkGithiub": "https://github.com/ilgizalimoff/math_for_kids"
         },
         {
             "id": 6,
@@ -73,8 +73,8 @@
             "id": 7,
             "title": "Grocery List",
             "body": "Приложение, позовяющее хранить список покупок. Изначально выводится 2 товара. Их можно удалить, клинкув на них и нажав на крестик в углу. Также можно добавлять свои покупки и удалять и их в зависимости от вашего желания.",
-            "linkTry": "https://ilgizalimoff.github.io/groceryList/",
-            "linkGithiub": "https://github.com/ilgizalimoff/groceryList"
+            "linkTry": "https://ilgizalimoff.github.io/grocery_list/",
+            "linkGithiub": "https://github.com/ilgizalimoff/grocery_list"
         },
         {
             "id": 8,
@@ -87,8 +87,8 @@
             "id": 9,
             "title": "Test Task ",
             "body": "Это тестовое задание мне было дано одной компанией. Я сделал его так, как смог на тот момент. Выводятся заказы и их дополнительные сведения. Также можно добавлять новые заказы, введя все необходимые сведения.",
-            "linkTry": "https://ilgizalimoff.github.io/testTask/",
-            "linkGithiub": "https://github.com/ilgizalimoff/testTask"
+            "linkTry": "https://ilgizalimoff.github.io/test_task/",
+            "linkGithiub": "https://github.com/ilgizalimoff/test_task"
         },
         {
             "id": 10,
