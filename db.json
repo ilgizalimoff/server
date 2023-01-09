@@ -141,13 +141,6 @@
             "status": "Выполнен"
         },
         {
-            "id": 4,
-            "cehProizv": "Молочный",
-            "dateBegin": "11.11.75",
-            "dateEnd": "21.12.2222",
-            "status": "в работе"
-        },
-        {
             "id": 3,
             "cehProizv": "Обкаточный",
             "dateBegin": "11.11.2020",
@@ -222,18 +215,6 @@
             "ObPoszakaza": 90,
             "edinIzm": "дм",
             "status": "Новая"
-        },
-        {
-            "numPosition": 3,
-            "celevCharacterMaterial": {
-                "markaStali": "см456",
-                "diametr": "54",
-                "stenka": "Пластмасса"
-            },
-            "ObPoszakaza": "21",
-            "edinIzm": "КМ",
-            "status": "Новый",
-            "id": 3
         }
     ]
 }
