@@ -92,14 +92,6 @@
             "linkGithiub": "https://github.com/ilgizalimoff/calculator"
         },
         {
-            "id": 9,
-            "title": "Test Task ",
-            "type": "js",
-            "body": "Это тестовое задание мне было дано одной компанией. Я сделал его так, как смог на тот момент. Выводятся заказы и их дополнительные сведения. Также можно добавлять новые заказы, введя все необходимые сведения.",
-            "linkTry": "https://ilgizalimoff.github.io/test_task/",
-            "linkGithiub": "https://github.com/ilgizalimoff/test_task"
-        },
-        {
             "id": 10,
             "title": "Todo",
             "type": "js",
@@ -189,32 +181,6 @@
             "name": "Valera",
             "email": "Presley.Mueller@myrl.com",
             "body": "Коммент про геев"
-        }
-    ],
-    "position": [
-        {
-            "id": 1,
-            "numPosition": 1,
-            "celevCharacterMaterial": {
-                "markaStali": "m162",
-                "diametr": 566,
-                "stenka": "Красная"
-            },
-            "ObPoszakaza": 32,
-            "edinIzm": "см",
-            "status": "Статус (новая, в работе, выполнена)"
-        },
-        {
-            "id": 2,
-            "numPosition": 1,
-            "celevCharacterMaterial": {
-                "markaStali": "аас234",
-                "diametr": 331,
-                "stenka": "Желтый"
-            },
-            "ObPoszakaza": 90,
-            "edinIzm": "дм",
-            "status": "Новая"
         }
     ]
 }
